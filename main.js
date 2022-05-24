@@ -86,8 +86,8 @@
 // printUserLocation()
 // var offset = new Date().getTimezoneOffset();
 // console.log(offset);
-const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-console.log(timezone);
+// const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+// console.log(timezone);
 
 // function creatRandomDate() {
 //     console.log(Math.floor(Math.random()*32+1)+"/"+Math.floor(Math.random()*12+1)+"/"+Math.floor(Math.random()*(100-1)+1))
